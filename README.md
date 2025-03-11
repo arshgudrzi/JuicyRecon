@@ -1,4 +1,5 @@
 JuicyRecon
+
 Overview
 
 JuicyRecon is a simple, automated tool designed for pentesters and security enthusiasts. It recursively downloads a website using wget, then scans the downloaded content for sensitive keywords (like API keys, passwords, tokens, etc.). It also integrates with SubReconX by processing its subdomain output to check additional targets for "juicy" information.
